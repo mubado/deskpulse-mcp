@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Abaddon-git/deskpulse",
+  "title": "DeskPulse",
+  "description": "Paid MCP for Kraken + Hyperliquid book depth, funding and basis. x402 USDC on Base.",
+  "version": "1.4.0",
+  "websiteUrl": "https://deskpulse.mubado.cloud",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://deskpulse.mubado.cloud/mcp"
+    }
+  ]
+}
