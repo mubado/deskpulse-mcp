@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.Abaddon-git/deskpulse",
+  "name": "io.github.mubado/deskpulse",
   "title": "DeskPulse",
   "description": "Paid MCP for Kraken + Hyperliquid book depth, funding and basis. x402 USDC on Base.",
   "version": "1.4.0",

@@ -5,7 +5,7 @@ Paid MCP server for crypto market intel. Agents get Kraken and Hyperliquid order
 - **MCP endpoint (Streamable HTTP):** `https://deskpulse.mubado.cloud/mcp`
 - **Website:** https://deskpulse.mubado.cloud
 - **Agent docs:** https://deskpulse.mubado.cloud/llms.txt
-- **MCP Registry:** `io.github.Abaddon-git/deskpulse`
+- **MCP Registry:** `io.github.mubado/deskpulse`
 
 This repo is the public listing for DeskPulse. It's a hosted remote server, so there's nothing to install or run locally.
 
